@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="no_added_alarm_s">No added alarms</string>
+    <string name="cancel">Cancel</string>
+    <string name="adding">Adding</string>
+    <string name="save">Save</string>
+    <string name="repeat_signal">Repeat signal</string>
+    <string name="melody">Melody</string>
+    <string name="repeatDays">Never ></string>
+    <string name="repeat">Repeat</string>
+    <string name="melodyChoose"><![CDATA[>]]></string>
+</resources>
